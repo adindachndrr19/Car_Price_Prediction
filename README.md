@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Dwi NurCahyo Purbonegoro
+# Laporan Proyek Machine Learning - Adinda Chandra Ayu Kusumawardhana
 
 ## Domain Proyek: Prediksi Harga Mobil Bekas
 
